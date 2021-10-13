@@ -7,3 +7,24 @@ Task1:
 2. /   //  %  ** differenct between operators  
 
 
+October 13:
+
+Task1:
+
+create integer try convert to float/bool/string
+create float try convert to int/bool/string
+create bool try convert to float/int/string
+create string try convert to float/bool/int
+
+Task2:
+
+Difference between compiler and interpreter
+
+Task3:
+
+Difference between python 2 and python3
+
+Task4:
+
+Difference between functional programming and oop
+
