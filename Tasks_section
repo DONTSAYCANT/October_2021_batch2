@@ -125,4 +125,45 @@ print(value1[-3:3:-3])
 print(value1[3:-3:-3])
 print(value1[-3:3:3])
 
+October 19:
+
+Tasks:
+
+string_name: "Welcome_to_python"
+
+
+print(value1[-5:5]) 
+print(value1[5:-5])
+print(value1[5:-5:1])
+print(value1[-5:5:1])
+print(value1[5:-5:-1])
+print(value1[-5:5:-1])
+print(value1[5:-5:5])
+print(value1[-5:5:-5])
+print(value1[5:-5:-5])
+print(value1[-5:5:5])
+print(value1[-3:3]) 
+print(value1[3:-3])
+print(value1[3:-3:1])
+print(value1[-3:3:1])
+print(value1[3:-3:-1])
+print(value1[-3:3:-1])
+print(value1[3:-3:3])
+print(value1[-3:3:-3])
+print(value1[3:-3:-3])
+print(value1[-3:3:3])
+print(var[::1])
+print(var[::2])
+print(var[::3])
+print(var[::-1])
+print(var[::-2])
+print(var[::-3])
+print(var[:8:2])
+print(var[:8:-2])
+print(var[8::2])
+print(var[8::-2])
+print(var[:-6:2])
+print(var[:-6:-2])
+print(var[-6::2])
+print(var[-6::-2])
 
