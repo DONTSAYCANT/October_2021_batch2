@@ -167,3 +167,23 @@ print(var[:-6:-2])
 print(var[-6::2])
 print(var[-6::-2])
 
+
+October 22
+
+Task1:
+
+#collect one string from user
+#Identify middle character of the string
+
+Task2:
+
+a = ["python", "groovy", "hello"]
+
+extract:
+ll
+vy
+on
+py
+ello
+
+
