@@ -191,6 +191,25 @@ October 25:
 Difference between list tuple set dictionary
 insertion sort merge sort bubble sort  ===> Tim sort
 
+October 26:
+
+#nested list
+
+a = [1,2,3,4,5,[101,102,103,105,[201,202,203,204,[304,305,305,"python",["groovy"],[20,21],[31,32],[41,42]]]]]
+
+print(a)
+print(type(a))
+
+#305
+#202
+#41
+#oovy
+#yth
+#32
+#42
+#20
+#4
+#105
 
 
 
