@@ -212,4 +212,23 @@ print(type(a))
 #105
 
 
+October 28:
+
+Set methods:
+
+isdisjoint 
+issuperset
+issubset
+
+Dictionary methods:
+
+
+
+
+
+
+
+
+
+
 
