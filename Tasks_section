@@ -333,8 +333,12 @@ output: niyo
 
 #Task5:
 
+Get two strings from user
+
 string1: wikipedia
 string2: typescript
+
+Identify middle characters
 
 output: p  +  c   ===> ascii value of p + ascii value of c  ====>  198
 
@@ -346,18 +350,21 @@ String2: java
 
 output ===> jythonpava64hv
 
+swap first letters of both strings and add + length of str1 + length of str2 + middle char of str1 + middle char of str2
+
 Task7:
 
 string1: ***python***
 string1: **python********
-string: ********java*******
+string1: ********java*******
 
-
+Extra special characters: * # % & $
 output: python  (strip method )
 https://www.w3schools.com/python/ref_string_strip.asp
 
 Task8:
 
+Collect two integers from user
 int1: 123
 int2: 456
 
@@ -365,9 +372,12 @@ output: 123456579
 
 
 Task9:
+Collect one string and integer from user
 
-String1: python  ==> h  ===> ascii value
-Int1: 100  ==> D
+String1: python  ==> h  ===> ascii value (ascii value for middle character)
+Int1: 100  ==> D  ==> actual char from ascii value
+
+Clues: Chr and ord inbuilt function for ascii conversions
 
 string1 ==> middle character's ascii value
 int ===> letter
@@ -376,6 +386,8 @@ int ===> letter
 
 
 Task10: (name<space>float)
+
+Collect three strings from user
 
 string1: "ravi 10.30"  
 string2: "meghala 12.19"
