@@ -400,6 +400,88 @@ split + indexing
 https://www.w3schools.com/python/ref_string_strip.asp
 
 
+November 3:
+
+Task1:
+
+
+https://www.hackerrank.com/challenges/py-if-else/problem
+
+Task2:
+
+https://www.hackerrank.com/challenges/write-a-function/problem
+
+
+Task3:
+
+#Find median of the list
+
+a = [1,2,3,4,0,9,8,7]
+b = [1,2,3,4,0,9,8,7,10]
+
+
+Task4:
+
+Get a number from user check whether postive or negative
+Get a number from user check whether odd or even
+Get a character from user check whether small case or upper case
+Get list from user check whether length is odd or even ([1,2,3,4,0,9,8,7] and [1,2,3,4,0,9,8,7,10])
+
+
+#task5:
+#Get one string from user
+#extract middle letter of the string
+#check whether middle letter is vowel or no
+
+#task6: (ord and chr functions)
+#Get one string from user
+#Find the middle letter
+#find ascii value for the middle letter
+#check whether ascii value is odd or even
+
+#task7:
+#get one string from user
+#check whether length of the string is odd or even
+
+#task8:
+#Get one string from user
+#check whether string is palindrome or no
+
+#task9:
+#Get one mark from student
+#mark 0 to 100 otherwise invalid mark
+
+#50 + PASS otherwise FAIL
+#90 to 100 ===> A  ==> Even + Odd -
+#80 to 89 ===> B
+#70 to 79 ===> C
+#60 to 69 ===> D
+#50 to 59 ===> E
+
+#0 to 49 ===> FAIL
+
+
+#93 ===> A-
+#99 ===> A-
+#88 ====> B+
+
+#78
+
+#VALID MARK
+#PASS MARK
+#C+
+
+Task10:
+
+#Using Range function  print multiples of 5 from 0 to 75
+#Using Range function  print multiples of 8 from 0 to 72
+
+#Using Range function  print multiples of 5 from 75 to 0
+#Using Range function  print multiples of 8 from 96 to 72
+
+
+
+
 
 
 
