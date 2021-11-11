@@ -479,8 +479,10 @@ Task10:
 #Using Range function  print multiples of 5 from 75 to 0
 #Using Range function  print multiples of 8 from 96 to 72
 
+Task1:
 
-
+#armstrong number check without string conversion (while)
+##prime number check
 
 
 
