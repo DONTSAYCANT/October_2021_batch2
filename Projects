@@ -1,0 +1,64 @@
+Mini project:
+
+paper/stone/scissor
+
+2 players:
+
+
+Possible scenarios:
+
+paper + paper ==> tie
+stone + stone ==> tie
+scissor + scissor ==> tie
+
+paper + stone ==> paper
+stone + scissor ==> stone
+paper + scissor ===> scissor 
+
+2 players: (1 player : user, 2nd player: system)
+
+Inputs & algo:
+1. Number of games from users
+2. Collect user input and generate random value'
+3. Do comparisons with all possible scenarios
+4. Add points for user/system/tie 
+
+
+Note:
+1. exception handled
+2. user int input
+3. user string input
+4. Final Tie situation
+
+
+Project1:
+
+Datastructure calculator
+
+
+Welcome to Data structure calculator, please select any one DS.
+
+1. List (10-15 operation)
+  Create a List (Default)
+  1. Append
+  2. Insert
+  3. remove
+  4. pop
+  5. Median
+  6. Mean
+2. Tuple (5 operation)
+  1. Tuple creation
+  2. Concatenation
+  3. count
+  
+3. Set (15 ops)
+4. Dictionary (10 operation)
+
+Project2:
+
+Quiz competition generator (Json)
+
+https://www.geeksforgeeks.org/read-write-and-parse-json-using-python/
+https://www.geeksforgeeks.org/how-to-parse-data-from-json-into-python/
+
+
